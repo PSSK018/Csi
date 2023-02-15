@@ -1,0 +1,182 @@
+
+body{
+    background-image: url('sneha.jpg');
+}
+.home{
+    position:absolute;
+    top: 10px;
+    right: 500px;
+    background-color:inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 0.4cm;
+
+}
+.home:hover{
+    transition: 0.3s;
+    background-color: aliceblue;
+    color: black;
+    width: 2.1cm;
+    height: 0.7cm;
+    border-radius: 18px;
+}
+.about{
+    position:absolute;
+    top: 10px;
+    right: 415px;
+    background-color:inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 0.4cm;
+}
+.about:hover{
+    transition: 0.3s;
+    background-color: aliceblue;
+    color: black;
+    width: 2.2cm;
+    height: 0.7cm;
+    border-radius: 18px;
+}
+.courses{
+    position:absolute;
+    top: 10px;
+    right: 310px;
+    background-color: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 0.4cm;
+}
+.courses:hover{
+    transition: 0.3s;
+    background-color: aliceblue;
+    color: black;
+    width: 2.6cm;
+    height: 0.7cm;
+    border-radius: 18px;
+}
+.contact{
+    position:absolute;
+    top: 10px;
+    right: 205px;
+    background-color: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 0.4cm;
+}
+.contact:hover{
+    transition: 0.3s;
+    background-color: aliceblue;
+    color: black;
+    width: 2.6cm;
+    height: 0.7cm;
+    border-radius: 18px;
+}
+.join{
+    position:absolute;
+    top: 10px;
+    right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    background-color:inherit;
+    font-size: 0.4cm;
+}
+.join:hover{
+    transition: 0.3s;
+    background-color: aliceblue;
+    color: black;
+    width: 2.6cm;
+    height: 0.7cm;
+    border-radius: 18px;
+}
+.img{
+    width: 40cm;
+    height: 22cm;
+    margin-left: 6%;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top:230px;
+    left: 500px;
+
+}
+.sne{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7cm;
+    top:470px;
+    left: 500px;
+}
+.ssk{
+   text-align: center;
+   font-size: 0.4cm;
+   width: 4cm;
+   border-radius: 18px;
+   height: 1cm;
+   background-color: #fc6a03;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   position: absolute;
+   right:650px;
+   top:600px;
+   border-color: #fc6a03;
+}
+.logo{
+    position: absolute;
+    top:20px;
+    left:0px;
+}
+.what{
+    text-align: center;
+    font-size: 1.1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top:650px;
+    right:400px;
+}
+.if{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8cm;
+    position: absolute;
+    top:750px;
+    left:350px;
+}
+.free{
+    border-radius: 12px;
+    background-color: #fc6a03;
+    padding: 10px;
+    width: 11cm;
+    height: 1cm;
+    position: absolute;
+    font-size: 1cm;
+    top: 800px;
+    left: 25px;
+    text-align: center;
+}
+.pro{
+    border-radius: 2px;
+    background-color:white;
+    color: black;
+    padding: 10px;
+    width:11cm;
+    height: 7cm;
+    position: absolute;
+    top: 860px;
+    left: 25px;
+    font-size: 0.8cm;
+}
+.signup{
+    width: 3cm;
+    height: 1cm;
+    border-color:  rgb(93, 166, 231);
+    color: white;
+    background-color: rgb(93, 166, 231);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    position: absolute;
+    top:240px;
+    left: 150px;
+}
